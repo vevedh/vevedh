@@ -5,7 +5,7 @@ I'm Hervé de CHAVIGNY, a Fullstack Dev 👨🏽‍💻 from Martinique with exp
 <p align="center">
   <i>Personal:</i> 
   <a href="https://twitter.com/vevedh_" target="_blank">Twitter</a> ∙ 
-  <a href="www.linkedin.com/in/herve-de-chavigny-15b63082" target="blank">LinkedIn</a> ∙ 
+  <a href="www.linkedin.com/in/herve-de-chavigny-15b63082" target="_blank">LinkedIn</a> ∙ 
   <a href="https://www.npmjs.com/~vevedh" target="_blank">NPM</a> ∙ 
 </p>
 
@@ -14,9 +14,9 @@ I'm currently working on [create-vv-app](https://vevedh.github.io/create-vv-app/
 
 Some of my public achievements...
 
--  [create-vv-app](https://vevedh.github.io/create-vv-app/){:target="_blank"}
--  [https://couche-lavable.cacem.fr](https://couche-lavable.cacem.fr/){:target="_blank"}
--  [https://profilpro-coaching.fr](https://profilpro-coaching.fr){:target="_blank"}
+-  [create-vv-app](https://vevedh.github.io/create-vv-app/){target="_blank"}
+-  [https://couche-lavable.cacem.fr](https://couche-lavable.cacem.fr/){target="_blank"}
+-  [https://profilpro-coaching.fr](https://profilpro-coaching.fr){target="_blank"}
 
 
 <!--
