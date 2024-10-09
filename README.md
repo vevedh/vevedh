@@ -6,7 +6,7 @@ I'm Hervé de CHAVIGNY, a Fullstack Dev 👨🏽‍💻 from Martinique with exp
 <p align="center">
   <i>Personal:</i> 
   <a href="https://twitter.com/vevedh_" target="_blank">Twitter</a> ∙ 
-  <a href="www.linkedin.com/in/herve-de-chavigny-15b63082" target="_blank">LinkedIn</a> ∙ 
+  <a href="https://www.linkedin.com/in/herve-de-chavigny-15b63082" target="_blank">LinkedIn</a> ∙ 
   <a href="https://www.npmjs.com/~vevedh" target="_blank">NPM</a> ∙ 
 </p>
 
