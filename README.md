@@ -14,11 +14,11 @@ I'm currently working on [create-vv-app](https://vevedh.github.io/create-vv-app/
 
 Some of my public achievements...
 
--  [create-vv-app](https://vevedh.github.io/create-vv-app/)
+-  <base target="_blank">[create-vv-app](https://vevedh.github.io/create-vv-app/)
 -  [https://couche-lavable.cacem.fr](https://couche-lavable.cacem.fr/)
 -  [https://profilpro-coaching.fr](https://profilpro-coaching.fr)
 
-<base target="_blank">
+
 
 <!--
 **vevedh/vevedh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
