@@ -14,7 +14,7 @@ I'm currently working on [create-vv-app](https://vevedh.github.io/create-vv-app/
 
 Some of my public achievements...
 
--  [create-vv-app](https://vevedh.github.io/create-vv-app/){target="_blank"}
+-  [create-vv-app](https://vevedh.github.io/create-vv-app/ target="_blank")
 -  [https://couche-lavable.cacem.fr](https://couche-lavable.cacem.fr/){target="_blank"}
 -  [https://profilpro-coaching.fr](https://profilpro-coaching.fr){target="_blank"}
 
