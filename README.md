@@ -1,3 +1,4 @@
+<base target="_blank">
 ## Hi there 👋
 
 I'm Hervé de CHAVIGNY, a Fullstack Dev 👨🏽‍💻 from Martinique with experience in JS, HTML, CSS, TS, C#, python. My current main stack is vue.js, feathers.js. My current main framework is Quasar Framework, Vuetify, Ionic. I love to contribute to open source projects. You'll probably find me on lasts open source projects. I enjoy connecting with other devs. Please say hello at my social media:
@@ -14,7 +15,7 @@ I'm currently working on [create-vv-app](https://vevedh.github.io/create-vv-app/
 
 Some of my public achievements...
 
--  <base target="_blank">[create-vv-app](https://vevedh.github.io/create-vv-app/)
+-  [create-vv-app](https://vevedh.github.io/create-vv-app/)
 -  [https://couche-lavable.cacem.fr](https://couche-lavable.cacem.fr/)
 -  [https://profilpro-coaching.fr](https://profilpro-coaching.fr)
 
