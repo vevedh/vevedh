@@ -1,4 +1,4 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vevedh?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vevedh?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <base target="_blank">
 ## Hi there 👋
