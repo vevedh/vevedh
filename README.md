@@ -12,7 +12,7 @@ I'm Hervé de CHAVIGNY, a Fullstack Dev 👨🏽‍💻 from Martinique with exp
   <a href="https://www.npmjs.com/~vevedh" target="_blank">NPM</a> ∙ 
 </p>
 
-I'm currently working on [create-vv-app](https://vevedh.github.io/create-vv-app/) it's a simple web app template all-in-one to easy create web site or cross-platform app with only with a minimum number of commands unsing my CLI [@phasme/cli](https://www.npmjs.com/package/@phasme/cli).
+I'm currently working on [create-vv-app](https://vevedh.github.io/create-vv-app/) it's a simple web app template all-in-one to easy create web site or cross-platform app with only with a minimum number of commands using my CLI [@phasme/cli](https://www.npmjs.com/package/@phasme/cli).
 
 
 Some of my public achievements...
