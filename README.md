@@ -17,6 +17,7 @@ I'm currently working on [create-vv-app](https://vevedh.github.io/create-vv-app/
 
 Some of my public achievements...
 
+-  [nuxt-feathers-zod](https://vevedh.github.io/nuxt-feathers-zod/)
 -  [create-vv-app](https://vevedh.github.io/create-vv-app/)
 -  [https://couche-lavable.cacem.fr](https://couche-lavable.cacem.fr/)
 
